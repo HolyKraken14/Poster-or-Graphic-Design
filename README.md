@@ -1,5 +1,8 @@
 # Poster or Graphic Design OCR Project
 
+![Individual Node Architecture Diagram](architecture.png)
+*Individual Node Architecture - Poster/Graphic Design System*
+
 This project provides tools for automated text detection, template management, and QR code overlay for poster or graphic design workflows. It is designed to help you quickly replace, theme, and enhance text in images and SVG templates, and to overlay QR codes on generated graphics.
 
 ## Features
@@ -57,9 +60,3 @@ Poster_or_Graphic_Design/
 - All outputs (debug images, replaced images, themed SVG/PNGs, QR overlays) are saved in the `output/` folder.
 - You can add new templates and themes in the `templates/` directory.
 - The `.gitignore` is set up to keep your repository clean.
-
-## License
-[MIT](LICENSE) (add a LICENSE file if you want to specify a license)
-
----
-Feel free to customize this README for your project or ask for more usage examples or documentation!
