@@ -1,0 +1,5 @@
+{
+  "teal": {"--primary": "#00897B", "--accent": "#26A69A", "--secondary": "#80CBC4"},
+  "yellow": {"--primary": "#F9A825", "--accent": "#FFD600", "--secondary": "#FFF59D"},
+  "pink": {"--primary": "#AD1457", "--accent": "#D81B60", "--secondary": "#F06292"}
+}

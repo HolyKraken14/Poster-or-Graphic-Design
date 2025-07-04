@@ -1,0 +1,5 @@
+{
+  "aqua": {"--primary": "#00B8D4", "--accent": "#1DE9B6", "--secondary": "#B2EBF2"},
+  "brown": {"--primary": "#6D4C41", "--accent": "#8D6E63", "--secondary": "#BCAAA4"},
+  "lime": {"--primary": "#C6FF00", "--accent": "#AEEA00", "--secondary": "#F4FF81"}
+}

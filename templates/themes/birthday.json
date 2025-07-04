@@ -1,0 +1,5 @@
+{
+  "violet": {"--primary": "#7C4DFF", "--accent": "#651FFF", "--secondary": "#B388FF"},
+  "coral": {"--primary": "#FF7043", "--accent": "#FF8A65", "--secondary": "#FFAB91"},
+  "mint": {"--primary": "#00BFAE", "--accent": "#1DE9B6", "--secondary": "#A7FFEB"}
+}

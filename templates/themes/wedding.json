@@ -1,0 +1,5 @@
+{
+  "gold": {"--primary": "#FFD700", "--accent": "#FFC107", "--secondary": "#FFF8E1"},
+  "rose": {"--primary": "#E91E63", "--accent": "#F06292", "--secondary": "#F8BBD0"},
+  "navy": {"--primary": "#283593", "--accent": "#3949AB", "--secondary": "#9FA8DA"}
+}

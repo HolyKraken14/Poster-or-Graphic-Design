@@ -1,0 +1,5 @@
+{
+  "blue": {"--primary": "#1565C0", "--accent": "#5E92F3", "--secondary": "#90CAF9"},
+  "orange": {"--primary": "#FF6F00", "--accent": "#FFA000", "--secondary": "#FFD54F"},
+  "purple": {"--primary": "#6A1B9A", "--accent": "#8E24AA", "--secondary": "#CE93D8"}
+}

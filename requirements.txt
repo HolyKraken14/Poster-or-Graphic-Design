@@ -1,0 +1,11 @@
+pillow
+pytesseract
+opencv-python-headless
+numpy
+requests
+freetype-py
+pkg_resources
+qrcode[pil]
+cairosvg
+wand
+easyocr

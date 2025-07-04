@@ -1,0 +1,5 @@
+{
+  "blue": {"--primary": "#0D47A1", "--accent": "#1976D2", "--secondary": "#42A5F5"},
+  "red": {"--primary": "#B71C1C", "--accent": "#D32F2F", "--secondary": "#FF5252"},
+  "green": {"--primary": "#1B5E20", "--accent": "#388E3C", "--secondary": "#81C784"}
+}
